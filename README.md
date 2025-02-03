@@ -37,8 +37,8 @@ The CNN model includes the following layers:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hurricane-damage-classifier.git
-   cd hurricane-damage-classifier
+   git clone https://github.com/allanbil214/nn_HurricaneClassifier.git
+   cd nn_HurricaneClassifier
    ```
 
 2. **Install Dependencies**:
