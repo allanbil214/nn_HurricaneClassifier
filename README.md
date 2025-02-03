@@ -50,11 +50,11 @@ The CNN model includes the following layers:
 3. **Run the Model**:
    Execute the script to download the dataset, train the model, and save the results:
    ```bash
-   python your_script.py
+   python nn_HurricaneClassifier.py
    ```
 
 4. **Model Output**:
-   The trained model will be saved as `DCML3.h5`.
+   The trained model will be saved as `model.h5`.
 
 ## Results
 
